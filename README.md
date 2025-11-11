@@ -20,7 +20,7 @@ A robust shell script for batch resizing images to multiple dimensions while mai
 
 1. **Download the script**:
    ```bash
-   wget https://raw.githubusercontent.com/Stryfe-Delivery/image-repository-manager/image-converter.sh
+   wget https://raw.githubusercontent.com/Stryfe-Delivery/image-repository-manager/main/image-converter.sh
    ```
 
 2. **Make it executable**:
